@@ -25,7 +25,6 @@ import BillingItem.BillItemDAO;
 import BillingItem.BillItemDAOImpl;
 import ItemPackage.ItemBusinessImpl;
 import ItemPackage.ItemDTO;
-///Users/sarath/eclipse/jee-2020-12/Eclipse.app/Contents/MacOS
 public class ShoppingAction extends Action{
 	@Override
 	public String execute(HttpServletRequest request, HttpServletResponse response) {
